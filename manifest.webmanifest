@@ -1,23 +1,23 @@
 {
-  "id": "/passwordvault.html",
+  "id": "./passwordvault.html",
   "name": "stillcooldad — Personal Vault",
   "short_name": "stillcooldad",
   "description": "A private, locally encrypted password vault.",
-  "start_url": "/passwordvault.html",
-  "scope": "/",
+  "start_url": "./passwordvault.html",
+  "scope": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#e8f8f8",
   "theme_color": "#bcebed",
   "icons": [
     {
-      "src": "/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
